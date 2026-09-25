@@ -21,3 +21,7 @@
 ### API機能利用時の留意点について（PDFファイル）
 
 [https://www.stat-search.boj.or.jp/info/api_notice.pdf](https://www.stat-search.boj.or.jp/info/api_notice.pdf)
+
+### 短観データコードの解説
+
+[https://www.stat-search.boj.or.jp/info/tankan_code.html](https://www.stat-search.boj.or.jp/info/tankan_code.html)
