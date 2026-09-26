@@ -27,5 +27,7 @@
 [https://www.stat-search.boj.or.jp/info/tankan_code.html](https://www.stat-search.boj.or.jp/info/tankan_code.html)
 
 **このリポジトリは、日本銀行時系列統計データ検索サイトの API 機能を利用して執筆した書籍のサポートページです。**
+
 **書籍、およびこのリポジトリの内容は日本銀行によって保証されたものではありません。**
+
 **あらかじめめご了承ください。**
